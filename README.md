@@ -20,4 +20,4 @@ A menu-driven Python calculator application developed using Git source control a
 - Modular code structure using Python functions.
 
 ## Sample Execution
-*(Insert your screenshot here)*
+<img width="743" height="708" alt="execution_screenshot" src="https://github.com/user-attachments/assets/1f9adc1f-998f-4a41-b7e5-a52eaf04a3a3" />
